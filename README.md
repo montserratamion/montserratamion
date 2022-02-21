@@ -10,6 +10,10 @@ I am a Chemist and PhD student!
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I am a gamer, otaku, panda and westy lover and of course ... I love science :heart:.
 
+
+
+<a href="https://github.com/montserratamion/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=montserratamion&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a>
+
   ### Languages and Tools:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
