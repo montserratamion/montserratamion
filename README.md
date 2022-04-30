@@ -8,7 +8,7 @@ I am a Chemist and PhD student!
 - 💬 Ask me about anything :blush:
 - 📫 How to reach me: @moon_experiment
 - 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: I love learning new things, and I am enjoy learning about photoshop, video editing (premier, DaVinci Resolve) and photography. Currently starting on Blender! 
+- ⚡ Fun fact: I love learning new things, and I am recently learning about photoshop, video editing (premier, DaVinci Resolve) and photography. Currently starting on Blender! 
 
 
 
