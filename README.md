@@ -1,14 +1,25 @@
 ### Hi there, I am Montse! 👋
 
-I am a Chemist and PhD student!
-- 🔭 I’m currently working on my PhD in Computational Chemistry
-- 🌱 I’m currently learning coding with Python and C++.
+I am a Computational Chemist and PhD Graduate!
+
 - 👯 I’m open to collaborate!
-- 🤔 I’m looking for help with python and C++.
-- 💬 Ask me about anything :blush:
 - 📫 How to reach me: @moon_experiment
 - 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: I love learning new things, and I am recently learning about photoshop, video editing (premier, DaVinci Resolve) and photography. Currently starting on Blender! 
+
+### Do you know SimStack?
+
+Take a look here: https://www.simstack.de
+
+Documentation: https://simstack.readthedocs.io
+
+### Workflow Active Nodes and Workflows for SimStack (KIT)
+
+https://github.com/KIT-Workflows
+
+### Workflows I collaborated
+
+https://github.com/KIT-Workflows/Dihedral-Scan
+
 
 
 
