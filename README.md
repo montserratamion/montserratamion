@@ -10,10 +10,16 @@ I am a Computational Chemist and PhD Graduate!
 
 Take a look here: https://www.simstack.de
 
+SimStack Publication: https://www.frontiersin.org/articles/10.3389/fmats.2022.877597/full
+
+Cite:
+```
+Rêgo, C. R., Schaarschmidt, J., Schlöder, T., Penaloza-Amion, M., Bag, S., Neumann, T., ... & Wenzel, W. (2022). SimStack: An Intuitive Workflow Framework. Virtual Materials Design, 879614171.
+```
 Documentation: https://simstack.readthedocs.io
 
 ### Workflow Active Nodes (WaNos) and Workflows for SimStack (KIT)
-
+ 
 https://github.com/KIT-Workflows
 
 ### Workflows I collaborated
