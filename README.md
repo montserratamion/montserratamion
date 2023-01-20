@@ -12,7 +12,7 @@ Take a look here: https://www.simstack.de
 
 Documentation: https://simstack.readthedocs.io
 
-### Workflow Active Nodes and Workflows for SimStack (KIT)
+### Workflow Active Nodes (WaNos) and Workflows for SimStack (KIT)
 
 https://github.com/KIT-Workflows
 
