@@ -1,9 +1,9 @@
 ### Hi there, I am Montse! 👋
 
-I am a Computational Chemist and PhD Graduate!
+I am a Doctor Computational Chemist and I am an enthusiats of polymer modeling and medicinal chemistry.
 
 - 👯 I’m open to collaborate!
-- 📫 How to reach me: @moon_experiment
+- 📫 How to reach me: Please, check my LinkedIn : https://www.linkedin.com/in/m-penaloza-amion/
 - 😄 Pronouns: She/her/hers
 
 ### Do you know SimStack?
