@@ -1,30 +1,20 @@
 ### Hi there, I am Montse! 👋
 
-I am a Doctor Computational Chemist and I am an enthusiats of polymer modeling and medicinal chemistry.
+I am a computational scientist with a PhD in Computational Chemistry. I am passionated for drug discovery and protein and polymer folding. I use computational methods to study the structure and dynamics of soft materials, such as proteins, polymers, and biological membranes. My work has the potential to lead to new drug discoveries and to improve our understanding of fundamental biological processes.
+
+Outside of my research, I enjoy teaching Chemistry and volunteering to promote science education. I believe that everyone should have the opportunity to learn about the fascinating world of chemistry and to appreciate the power of computational simulation.
+
+I am excited to use my skills and experience to make a positive impact on the world. I am always looking for new challenges and opportunities to collaborate with others.
+
+Contact me today to learn more about my work or to discuss potential collaborations!
 
 - 👯 I’m open to collaborate!
-- 📫 How to reach me: Please, check my LinkedIn : https://www.linkedin.com/in/m-penaloza-amion/
 - 😄 Pronouns: She/her/hers
+- 📫 How to reach me: Please, check my [LinkedIn](https://www.linkedin.com/in/m-penaloza-amion)
+- For more information about my project, check my [Portfolio](https://montserratamion.github.io/portfolio/)
 
-### Do you know SimStack?
 
-Take a look here: https://www.simstack.de
 
-SimStack Publication: https://www.frontiersin.org/articles/10.3389/fmats.2022.877597/full
-
-Cite:
-```
-Rêgo, C. R., Schaarschmidt, J., Schlöder, T., Penaloza-Amion, M., Bag, S., Neumann, T., ... & Wenzel, W. (2022). SimStack: An Intuitive Workflow Framework. Virtual Materials Design, 879614171.
-```
-Documentation: https://simstack.readthedocs.io
-
-### Workflow Active Nodes (WaNos) and Workflows for SimStack (KIT)
- 
-https://github.com/KIT-Workflows
-
-### Workflows I collaborated
-
-https://github.com/KIT-Workflows/Dihedral-Scan
 
 
 
